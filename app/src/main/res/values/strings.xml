@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="addButton">ADD</string>
+    <string name="add">ADD</string>
+    <string name="add_item">Add a new ITEM ..</string>
+    <string name="addItem">Name</string>
+    <string name="saveItem">SAVE</string>
+</resources>
